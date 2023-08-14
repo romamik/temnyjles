@@ -1,0 +1,10 @@
+body {font-family: Calibri, sans-serif; margin: auto 22.5%}
+p {text-align: justify}
+h1 {font-family: Candara, sans-serif; font-size:2.4em}
+h2 {font-family: Candara, sans-serif; font-size:2em}
+h3 {font-family: Candara, sans-serif; font-size:1.6em}
+h4 {font-family: Candara, sans-serif; font-size:1.3em}
+h5 {font-family: Candara, sans-serif; font-size:1.1em}
+h6 {font-family: Candara, sans-serif; font-size:0.95em}
+div.left {width:20%; height:100%; position:fixed; top:0; left:0; padding: 0.5em; color:#101800; background-color:#c0f0a0; font-family:Arial,sans-serif; font-size:80%; text-align: left}
+div.right {width:20%; height:100%; position:fixed; top:0; right:0; padding: 0.5em; color:#101800; background-color:#c0f0a0; font-family:Arial,sans-serif; font-size:80%}
